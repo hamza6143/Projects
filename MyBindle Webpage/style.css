@@ -76,6 +76,7 @@ header{
     width: 38%;
 }
 .mobile-img{
+    min-width: 100px;
     width: 50%;
     border-radius: 25px;
     padding: 8px;
